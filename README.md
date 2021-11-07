@@ -10,3 +10,6 @@ Hello and welcome to our miniproject. Our team has developed a messenger applica
 6. Press the "Connect" button and you are in.
 
 Now you can start chatting with other people who are connected to the server. Make sure that you are all on the same internet, otherwise it wont work, unless the ip address it portforwarded.
+
+The server is creating a new server socket on port 8000, and on the local host’s ipv4 address. 
+The client is joining the server through the socket using the ip address and the port therefor the communication protocol between the server and the client is fulfilled 
