@@ -1,4 +1,4 @@
-# MED307miniproject-client
+# MED307miniproject-server
 
 Hello and welcome to our miniproject. Our team has developed a messenger application, where one is able to host a chat server and connect with friends. It is possible to write with eachother through the application. Below you will find a guide on, how you can host the server and connect to it.
 
